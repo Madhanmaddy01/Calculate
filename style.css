@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://getwallpapers.com/wallpaper/full/8/7/7/741822-white-rabbit-wallpaper-1920x1280-xiaomi.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    opacity: 0.7;
+   }
+   header{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   }
+   @media only screen
+and (min-width : 321px) {
+/* STYLES GO HERE */
+}
